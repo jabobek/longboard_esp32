@@ -26,7 +26,7 @@ The project upload and monitoring is configured to use specific COM ports. To ch
 **Example for the Remote:**
 ```ini
 [env:boardRemote]
-upload_port = COM6 ; <-- Change this to your port
+upload_port = COM6
 ```
 Then, use PlatformIO to upload the firmware to each board environment.
 
