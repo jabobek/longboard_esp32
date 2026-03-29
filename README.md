@@ -51,6 +51,7 @@ A complete circuit diagram for both units is available in the **/resources** fol
 ---
 
 ## Pinout Reference
+Default negative outputs can be switched in settings to default positive.
 
 ### 1. Controller (ESC) - BOARD 1
 
