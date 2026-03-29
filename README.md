@@ -62,7 +62,7 @@ Default negative outputs can be switched in settings to default positive.
 *   **M4 (Rear-Right)**: PWM Pin 26 (PWM Output), Brake Pin 13 (Digital Output), Hall Pin 17 (Digital Input)
 
 #### General I/O & Sensors
-*   **Direction Output**: Pin 23 & 5 (Digital Output)
+*   **Direction Output**: Pin 23 (positive), Pin 5 (negative) (Digital Output)
 *   **Light Output**: Pin 18 (Digital Output)
 *   **Battery Voltage, use resistor divider**: Pin 35 (Analog Input)
 *   **Current Sensor**: I2C Interface (INA219 at 0x40)
